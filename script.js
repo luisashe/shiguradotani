@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yayyy!! :3";
+  titleElement.innerHTML = "Yayyy!! I just want to let you know that I freaking love you with all my heart, and it could've been worse for me if I hadn't met you. We love each other every day through ups and downs; we're still together fighting for our happiness. I couldn't meet your expectations last year's Valentine's Day, but I promise that I will make up for it… I love youuu, bebe isayyy!! See you soon!";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
